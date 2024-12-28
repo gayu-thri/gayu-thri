@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Large Language Models (LLM) at Zoho Corporation
 - 🌱 I have previous experiences in Inverse Text Normalization (ITN) and Automatic Speech Recognition (ASR)
-- 👨‍💻 All of my projects are available [here](https://www.gayu-thri.com/projects)
+- 👨‍💻 All of my projects are available here
 
 <!--
 	
