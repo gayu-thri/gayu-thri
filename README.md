@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Gayathri Ethiraj</h1>
-<h3 align="center">Master’s student in Data Science | AI Engineer focused on LLM & ASR</h3>
+<h3 align="center">Master’s student in Data Science | Focused on LLM & ASR</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gayu-thri&color=blueviolet&style=flat">
