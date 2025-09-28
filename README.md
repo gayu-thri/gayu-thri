@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Gayathri Ethiraj</h1>
-<h3 align="center">AI Engineer with over 3 years of experience</h3>
+<h3 align="center">Master’s student in Data Science | AI Engineer focused on LLM & ASR</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gayu-thri&color=blueviolet&style=flat">
 </p>
 
-- 🔭 I’m currently working on Large Language Models (LLM) at Zoho Corporation
-- 🌱 I have previous experiences in Inverse Text Normalization (ITN) and Automatic Speech Recognition (ASR)
+- 🔭 I’m currently a Masters in Data Science student at University of Wisconsin-Madison 
+- 🌱 I have previous experiences in Large Language Models (LLM), Inverse Text Normalization (ITN) and Automatic Speech Recognition (ASR)
 - 👨‍💻 All of my projects are available here
 
 <!--
